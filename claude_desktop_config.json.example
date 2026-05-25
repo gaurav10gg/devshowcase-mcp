@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "dev-showcase-4d43": {
+      "command": "node",
+      "args": [
+        "/absolute/path/to/dist/index.js"
+      ],
+      "env": {
+        "BASE_URL": "https://api.example.com"
+      }
+    }
+  }
+}
